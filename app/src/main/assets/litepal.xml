@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="HistoryStore"></dbname>
+    <version value="4"></version>
+    <list>
+        <mapping class="com.example.a7279.tulingapp.ChatModel"></mapping>
+        <mapping class="com.example.a7279.tulingapp.ListBean"></mapping>
+    </list>
+</litepal>
